@@ -8,13 +8,15 @@ A small collection of eight reusable Python functions from NETS7052 coursework (
 - `networkx`
 - `matplotlib`
 
-Install the dependencies with:
+Clone and install the package with pip:
 
 ```bash
-pip install networkx matplotlib
+git clone https://github.com/jxhow/netsci-structure-community-toolkit.git
+cd netsci-structure-community-toolkit
+python -m pip install .
 ```
 
-Import functions from `network_toolkit.py` in the same directory, for example:
+Then import the functions from any working directory, for example:
 
 ```python
 from network_toolkit import degree_distribution, louvain_partition
