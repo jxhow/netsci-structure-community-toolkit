@@ -1,6 +1,6 @@
 # Network Science Toolkit
 
-A small collection of eight reusable Python functions from NETS7052 coursework (through Class 11). The toolkit covers network structure, paths, centrality, randomization, configuration models, community detection, modularity, and visualization. It can be used with any suitable NetworkX network, including networks whose nodes represent geographic areas.
+A small collection of eight reusable Python functions from NETS7052 coursework. The toolkit covers network structure, paths, centrality, randomization, configuration models, community detection, modularity, and visualization. It can be used with any suitable NetworkX network, including networks whose nodes represent geographic areas.
 
 ## Requirements
 
